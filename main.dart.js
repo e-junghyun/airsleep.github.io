@@ -36070,7 +36070,7 @@ s.a=!0
 s.c=!1
 q.e=new A.SZ(s,q,r)
 q.f=s},
-R(a){var s,r,q,p=this,o=null,n=A.Yo("WebUSB",o,o,o),m=p.f
+R(a){var s,r,q,p=this,o=null,n=A.Yo("AIR SLEEP TEST",o,o,o),m=p.f
 m===$&&A.b()
 s=m.a
 s===$&&A.b()
